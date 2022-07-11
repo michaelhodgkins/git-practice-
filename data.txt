@@ -1,0 +1,3 @@
+Name: Michael 
+Age: 24
+Favourite Color: Yellow
